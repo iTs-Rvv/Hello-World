@@ -1,1 +1,7 @@
-# Hello-World
+// Printing Hello World Using C......
+#include <stdio.h>
+int main()
+{
+printf("Hello World");
+return 0;
+}
